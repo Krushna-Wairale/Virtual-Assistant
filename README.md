@@ -84,7 +84,6 @@ With a blinking animation during speech, it provides a more natural and engaging
 ## 🔗 Live Project Link
 
 👉 [Click here to open Krushna | The Virtual Assistant](https://krushna-wairale.github.io/Virtual-Assistant/)  
-> *(Replace the URL with your actual deployment link)*
 
 ---
 
